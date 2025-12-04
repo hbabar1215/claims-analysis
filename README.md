@@ -18,3 +18,4 @@ This project analyzes healthcare claims data from May 2024 to evaluate provider 
 - Inpatient claims make up 59.54% of claims while Doctor's office makes 34.02% of claims. 
 - J96.01 is the ICD-10 code for acute respiratory failure with hypoxia, which was the most frequently found in the data sources. 
 - Medicare was the highest-revenue payer by total charges. It had 131008 charges. 
+- The range of these claims are from September 25, 2023 to May 29, 2024. 

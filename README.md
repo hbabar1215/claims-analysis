@@ -8,6 +8,14 @@ This project analyzes healthcare claims data from May 2024 to evaluate provider 
 - LINE File `(STONYBRK_20240531_LINE.csv)`
 - CODE File `(STONYBRK_20240531_CODE.csv)`
 
+## Required Libraries to Install
+```
+pandas
+numpy
+matplotlib
+seaborn
+```
+
 ## How to Run
 1. Install required libraries using:
    pip install -r requirements.txt  

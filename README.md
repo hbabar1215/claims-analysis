@@ -4,9 +4,9 @@
 This project analyzes healthcare claims data from May 2024 to evaluate provider billing patterns, diagnosis–procedure relationships, and payer mix using Python and pandas.
 
 ## Data Sources
-- Claims Header File
-- Claims Line File
-- Code File
+- HEADER File `(STONYBRK_20240531_HEADER.csv)`
+- LINE File `(STONYBRK_20240531_LINE.csv)`
+- CODE File `(STONYBRK_20240531_CODE.csv)`
 
 ## How to Run
 1. Install required libraries using:
